@@ -1,7 +1,7 @@
 {
-  "name": "Simple listing app",
+  "name": "Simple-Listing",
   "version": "0.1.0",
-  "author": "Vukan Vukotic <vukan71@proton.me>",
+  "author": "Vukan Vukotic<vukan71@proton.me>",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
